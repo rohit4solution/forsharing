@@ -1,0 +1,18 @@
+# winvm = {
+#   winvm1 = {
+#     name      = "winvm1"
+#     location  = "central India"
+#     vnetspace = ["10.5.0.0/16"]
+#     snetadd   = ["10.5.2.0/24"]
+#     pvtip     = "10.5.2.4"
+#   }
+
+#   winvm2 = {
+#     name      = "winvm2"
+#     location  = "central India"
+#     vnetspace = ["10.5.0.0/16"]
+#     snetadd   = ["10.5.3.0/24"]
+#     pvtip     = "10.5.3.5"
+#   }
+
+# }

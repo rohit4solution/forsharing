@@ -1,0 +1,4 @@
+variable "varbas" {
+  type = any
+
+}
